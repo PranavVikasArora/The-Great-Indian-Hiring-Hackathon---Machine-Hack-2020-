@@ -20,3 +20,6 @@ Skills:
 Multivariate Regression
 Big dataset, underfitting vs overfitting
 Optimizing RMSE to generalize well on unseen data
+
+Special Thanks to Som Nath Ghosh for his guidance and help on this project. 
+Som Nath Ghosh's Github : https://github.com/Som-Nath-Ghosh
