@@ -21,5 +21,5 @@ Multivariate Regression
 Big dataset, underfitting vs overfitting
 Optimizing RMSE to generalize well on unseen data
 
-Special Thanks to Som Nath Ghosh for his guidance and help on this project. 
+Special Thanks to Som Nath Ghosh for his guidance through out this project, and for teaching me many new concepts which have been used to build this model. 
 Som Nath Ghosh's Github : https://github.com/Som-Nath-Ghosh
